@@ -14,9 +14,9 @@ RuneWord will check after the character is created!
 -
 
 <ul>
-<li>룬워드 참고한 사이트 : <a href="https://www.reddit.com/r/diablo2/comments/4nwwc5/confirmed_working_method_for_ladder_runewords_on/">reddit</a></li>
-<li>검색어: diablo 2 single player ladder runewords</li>
-<li>스킬ID 참고한 사이트 : <a href="https://github.com/fabd/diablo2/blob/master/code/d2_113_data/Skills.txt">fabd</a></li>
+<li>룬워드 참고한 곳:  <a href="https://www.reddit.com/r/diablo2/comments/4nwwc5/confirmed_working_method_for_ladder_runewords_on/">reddit</a>, <a href="https://pathofdiablo.com/wiki/index.php?title=Runewords#Hidden_Blizzard_Rune_Words">POD</a></li>
+<li>검색어: diablo 2 single player ladder runewords, pod runewords</li>
+<li>스킬ID 참고한 곳: <a href="https://github.com/fabd/diablo2/blob/master/code/d2_113_data/Skills.txt">fabd</a></li>
 <li>검색어: diablo 2 character skills id</li>
 
 볼땐 스프레드로.<br>
