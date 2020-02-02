@@ -25,6 +25,6 @@ RuneWord will check after the character is created!
 
 
 2020.02.02 23:14
-====
-스킨과 룬워드용 메모장 파일은 C:\Program Files (x86)\Diablo II\Mod PlugY 하위에 넣을 것.
+=====
+스킨과 룬워드용 메모장 파일은 C:\Program Files (x86)\Diablo II\Mod PlugY 하위에 넣을 것. <- <strong>본인이 설치한 경로를 확인할 것!!</strong>
 룬워드의 경우 이름만 있는것들이 있어서 수정을 해서 사용하려고 했는데 <a href="http://classic.battle.net/diablo2exp/items/runewords.shtml">룬워드 규칙</a>을 안지킨건지 젬드가 되버렸는데 룬워드에서 itype을 추가한건 적용된걸 <a href="https://github.com/DUVELA/diablo2/blob/master/%2Bladder%2B/gg.jpg">확인.</a>
