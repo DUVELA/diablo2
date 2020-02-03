@@ -1,6 +1,3 @@
-
-Skill ID
-
 tors -> 아머(Armor)
 pole -> 폴암(Polearms)
 scep -> 셉터(Scepters)
